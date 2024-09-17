@@ -76,3 +76,4 @@ https://dev.to/techworld_with_nana/ci-cd-with-teamcity-devops-tool-of-the-month-
 https://habr.com/ru/companies/tbank/articles/532546/
 
 https://www.youtube.com/watch?v=zn5T7FkpaTA
+https://habr.com/en/companies/surfstudio/articles/520506/
