@@ -74,3 +74,5 @@ https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.protec
 https://dev.to/techworld_with_nana/ci-cd-with-teamcity-devops-tool-of-the-month-4-16pm
 
 https://habr.com/ru/companies/tbank/articles/532546/
+
+https://www.youtube.com/watch?v=zn5T7FkpaTA
