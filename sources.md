@@ -70,3 +70,7 @@ https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.protec
 [Tales from the .NET Migration Trenches - Intro (jimmybogard.com)](https://www.jimmybogard.com/tales-from-the-net-migration-trenches/)
 
 [150+ вопросов по .NET для Junior, Middle и Senior - Блог ITVDN](https://itvdn.com/ru/blog/article/150-questions-net-developer)
+
+https://dev.to/techworld_with_nana/ci-cd-with-teamcity-devops-tool-of-the-month-4-16pm
+
+https://habr.com/ru/companies/tbank/articles/532546/
